@@ -1,5 +1,5 @@
 ---
-title: 'LLBot+Astrbot'
+title: 'LLBot+Astrbot搭建QQ机器人'
 published: 2026-04-03
 #updated: 2026-02-12
 description: '使用LLBot+Astrbot完成QQ 机器人搭建教程'
