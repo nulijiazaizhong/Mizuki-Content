@@ -60,6 +60,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://llds.cloud",
 		tags: ["友情链接"],
 	},
+	{
+		id: 6,
+		title: "Liseezn'blog",
+		imgurl: "https://blog.liseezn.top/logo.webp",
+		desc: "分享个人学习，项目，及一些教程",
+		siteurl: "‘https://blog.liseezn.top",
+		tags: ["友情链接"],
+	},
 ];
 
 // 获取所有友情链接数据
