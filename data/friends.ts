@@ -52,6 +52,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://docs.mizuki.mysqil.com",
 		tags: ["文档"],
 	},
+	{
+		id: 5,
+		title: "LsAng",
+		imgurl: "https://llds.cloud/_nuxt/avatar.DCJjbfvc.gif",
+		desc: "学习、探索中",
+		siteurl: "https://llds.cloud",
+		tags: ["友情链接"],
+	},
 ];
 
 // 获取所有友情链接数据
