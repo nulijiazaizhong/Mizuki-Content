@@ -89,3 +89,8 @@ hermes dashboard --host 0.0.0.0 --insecure
 ```
 ![](https://tuchuang.goodnightan.com/PicGo/20260416213722410.png)
 ![](https://tuchuang.goodnightan.com/PicGo/20260416213755461.png)
+
+## 6. 参考资料
+1. [Hermes Agent 接入飞书 & 企业微信全流程指南-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2652796)
+2. [Feishu / Lark \| Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/messaging/feishu)
+3. [Quickstart \| Hermes Agent](https://hermes-agent.nousresearch.com/docs/getting-started/quickstart)
