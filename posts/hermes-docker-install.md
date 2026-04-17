@@ -1,6 +1,6 @@
 ---
 title: '使用 docker 部署 Hermes'
-published: 2026-04-16
+published: 2026-04-17
 #updated: 2026-02-12
 description: '在Ubuntu 25.10 中用 docker 安装 Hermes 并对接飞书'
 image: '/images/posts/Hermes-docker-install.png'
