@@ -38,6 +38,14 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 3,
+		title: "超量战纪",
+		imgurl: "https://tuchuang.goodnightan.com/PicGo/HYPER-EXCESS.jpg",
+		desc: "一支00后创业团队，坚守游戏创作初心，以热爱与专业打造精品；以技术创新为核心、艺术表达为追求，创造触动心灵的体验。秉持诚信、专注、创新、共赢，立足中国、面向全球，构建属于中国人的原创游戏IP宇宙。",
+		siteurl: "https://www.ngamesart.com.cn",
+		tags: ["游戏工作室"],
+	},
+	{
+		id: 4,
 		title: "Astro",
 		imgurl: "https://avatars.githubusercontent.com/u/44914786?v=4&s=640",
 		desc: "The web framework for content-driven websites",
@@ -45,7 +53,7 @@ export const friendsData: FriendItem[] = [
 		tags: ["框架"],
 	},
 	{
-		id: 4,
+		id: 5,
 		title: "Mizuki Docs",
 		imgurl: "https://q.qlogo.cn/headimg_dl?dst_uin=3231515355&spec=640&img_type=jpg",
 		desc: "Mizuki User Manual",
@@ -53,7 +61,7 @@ export const friendsData: FriendItem[] = [
 		tags: ["文档"],
 	},
 	{
-		id: 5,
+		id: 6,
 		title: "LsAng",
 		imgurl: "https://llds.cloud/_nuxt/avatar.DCJjbfvc.gif",
 		desc: "学习、探索中",
@@ -61,7 +69,7 @@ export const friendsData: FriendItem[] = [
 		tags: ["友情链接"],
 	},
 	{
-		id: 6,
+		id: 7,
 		title: "Liseezn'blog",
 		imgurl: "https://blog.liseezn.top/logo.webp",
 		desc: "分享个人学习，项目，及一些教程",
