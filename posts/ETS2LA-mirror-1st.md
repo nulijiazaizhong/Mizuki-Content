@@ -26,6 +26,7 @@ lang: 'zh-CN'
 
 ## 赞助
 ![](https://tuchuang.goodnightan.com/PicGo/sponsor.png)
-:::warning ⚠️ 警告
+
+:::tip 
 请各位赞助人在赞助时备注 `赞助+昵称` ，如未备注昵称将默认使用 支付方式所显示的昵称
 :::
