@@ -3,8 +3,8 @@ title: ETS2LA国内镜像站一周年
 published: 2026-05-15
 description: 'ETS2LA国内镜像站这一年的情况以及后续规划'
 image: '/images/posts/ETS2LA-mirror-1st.png'
-tags: [Cloudflare, ip, 优选]
-category: '分享,ETS2LA'
+tags: [ETS2LA, 一周年, 运营]
+category: 'ETS2LA'
 draft: false 
 lang: 'zh-CN'
 ---
