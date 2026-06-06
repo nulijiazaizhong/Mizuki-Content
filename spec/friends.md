@@ -1,35 +1,37 @@
-# 友链申请
+### 本站信息
 
-如果您希望与本站交换友链，需要满足以下要求：
-## 申请要求
-1. 站点必须在[itdog的网站测速](https://www.itdog.cn/http/)中耗时不超过3s
-2. 站点内不得有违反法律、道德、社会规范的内容
-3. 请在申请前先将本站添加到您的友链中
-
-本站信息：
-```json
-{ 
-名称: '晚安的静谧小屋', 
-站点地址: 'https://blog.goodnightan.com', 
-头像: 'https://blog.goodnightan.com/_astro/avatar.BY4n5X0D_zFPbO.webp', 
-描述: '学习、游玩、成长总结', 
-}
+```
+站点名称：晚安の静谧小屋
+站点描述：分享个人学习，项目，及一些教程
+站点链接：https://blog.goodnightan.com
+头像链接：https://blog.goodnightan.com/_astro/avatar.BY4n5X0D_zFPbO.webp
 ```
 
-请确保你的站点在[itdog的网站测速](https://www.itdog.cn/http/)中的总耗时不超过3s，然后参考以下格式将信息发送到[邮箱](mailto:goodnight@goodnightan.email)进行申请：
+### 申请友链
 
-## 申请格式
-```json
-    {
-        id: 8,
-        itle: "晚安的静谧小屋", // 网站名称 
-        imgurl: "https://blog.goodnightan.com/_astro/avatar.BY4n5X0D_zFPbO.webp", // 头像Logo
-        desc: "学习、游玩、成长总结", // 简介描述
-        siteurl: "https://blog.goodnightan.com", // 网站地址
-        tags: ["友情链接"],
-    },
+1. 添加本站友链
+   请先在您的网站友链页面添加本站信息，可直接复制上方各字段
+2. 评论区留言/发送申请邮件至：`goodnight@goodnightan.email`  
+   申请模板，把内容复制修改后到评论区或邮件中发送
+
+```
+{
+	id: 0,
+	title: "您的站点名称",
+	imgurl: "您的站点头像链接",
+	desc: "您的站点描述",
+	siteurl: "您的站点链接",
+	tags: ["友情链接"],
+},
 ```
 
-## 申请方式
-1. 发送邮件到[邮箱](mailto:goodnight@goodnightan.email)
-![](https://tuchuang.goodnightan.com/PicGo/20260408114223691.png)
+3. 等待审核
+   确认信息无误后会尽快添加您的友链
+
+### 注意事项
+
+- **互换原则**：请先将本站添加到您的友链页面，确认后会添加您的友链
+- **链接维护**：友链网站长期无法访问或内容违规，将会被移除
+- **内容要求**：内容积极向上，不含有任何含色情/反动/暴力等违法违规内容
+- **站点要求**：支持 HTTPS，以原创内容为主，能够正常访问且有持续更新
+- **访问速度**：请确保你的站点在[itdog的网站测速](https://www.itdog.cn/http/)中的总耗时不超过3s

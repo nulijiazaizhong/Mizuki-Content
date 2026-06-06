@@ -1,54 +1,59 @@
-# About This Theme
+# 关于本站
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+你好呀，欢迎来到 **晚安の静谧小屋** 👋
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+这里是一个用来记录学习、分享生活与折腾项目的小角落。如果你也热爱折腾、喜欢探索，那么我们也许能成为朋友。
 
-## 🌟 Theme Features
+::github{repo="nulijiazaizhong/nulijiazaizhong"}
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+## 🧑 关于我
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+- **网名**：晚安（Goodnightan或GoodNight_An）
+- **身份**：一只在学习路上慢慢爬行的萌新
+- **座右铭**：保持好奇，持续折腾
+- **兴趣**：编程、折腾各种有趣的项目、偶尔看看番、打打游戏
+  > 我相信「慢慢来，比较快」。每一行代码、每一篇笔记，都是在为未来的自己铺路。
 
-### 🌐 Internationalization
-- **Multi-language Support** - Real-time translation capabilities
-- **Auto Language Detection** - Detects user preferences automatically
-- **Client-side Translation** - Powered by Edge Translate technology
-- **10+ Languages Supported** - EN, ZH-CN, ZH-TW, JA, KO, ES, TH, VI, ID, TR
+## 🌱 这个博客有什么？
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+- 📝 **学习笔记**：记录前端、后端、工具使用等学习心得
+- 🛠 **项目分享**：展示自己开发或参与的小项目
+- 💡 **教程合集**：踩过的坑、趟过的路，希望对你有帮助
+- 🌸 **生活碎片**：偶尔也会记录一些日常的小确幸
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+## 🛠 技术栈
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+本站基于 [Astro](https://astro.build/) 框架构建，主题为 [Mizuki](https://github.com/matsuzaka-yuki/Mizuki)：
+
+- **框架**：Astro
+- **样式**：Tailwind CSS
+- **评论**：Twikoo
+- **搜索**：Pagefind
+- **内容**：本站采用**内容分离**模式
+- **代码高亮**：Expressive Code
+- **数学公式**：KaTeX
+
+## 📬 联系方式
+
+如果你也想交流学习、互换友链，或者单纯想说一声「你好」：
+
+- **邮箱**：[goodnight@goodnightan.email](mailto:goodnight@goodnightan.email)
+- **GitHub**：[nulijiazaizhong](https://github.com/nulijiazaizhong)
+- **Bilibili**：[晚安の静谧小屋](https://space.bilibili.com/525984002)
+- **Discord**：[点击添加好友](https://discordapp.com/users/1095284199520469112)
+
+## 🤝 友链申请
+
+欢迎志同道合的朋友互换友链，详细申请方式请前往 [友链页面](/friends/) 查看。
+
+## ✨ 致谢
+
+- 感谢 [Mizuki](https://github.com/matsuzaka-yuki/Mizuki) 主题作者提供的优秀主题
+- 感谢 [Astro](https://astro.build/) 团队带来的出色框架
+- 感谢每一位访问本站的你 ❤️
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+_本站采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议，转载请保留作者署名。_
+
+_愿你在这里，能找到一点点安静的时光。_
