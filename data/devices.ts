@@ -105,7 +105,7 @@ export const devicesData: DeviceCategory = {
 			specs: "5N·m",
 			description:
 				"入门级直驱模拟赛车基座，提供5N·m恒定扭矩，还原真实路面反馈。",
-			link: "https://www.asus.com.cn/supportonly/g614jv/helpdesk_download/",
+			link: "https://www.mozaracing.cn/wheel-base-r5/",
 		},
 	],
 };
