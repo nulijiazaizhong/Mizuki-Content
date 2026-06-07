@@ -39,7 +39,7 @@
 
 - **邮箱**：[goodnight@goodnightan.email](mailto:goodnight@goodnightan.email)
 - **GitHub**：[nulijiazaizhong](https://github.com/nulijiazaizhong)
-- **Bilibili**：[晚安の静谧小屋](https://space.bilibili.com/525984002)
+- **Bilibili**：[GoodNight*An*晚安](https://space.bilibili.com/525984002)
 - **Discord**：[点击添加好友](https://discordapp.com/users/1095284199520469112)
 
 ## 🤝 友链申请
