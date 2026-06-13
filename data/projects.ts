@@ -85,6 +85,7 @@ export const projectsData: Project[] = [
 		category: "web",
 		techStack: ["Astro", "JavaScript", "Tailwind CSS"],
 		status: "in-progress",
+		liveDemo: "https://www.steilar.com",
 		sourceCode: "https://github.com/nulijiazaizhong/Stellar",
 		startDate: "2026-06-10",
 		featured: false,
