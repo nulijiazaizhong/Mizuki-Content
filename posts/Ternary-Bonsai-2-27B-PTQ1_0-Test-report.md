@@ -2,7 +2,6 @@
 title: Ternary-Bonsai-2-27B-PTQ1_0 性能测试报告
 published: 2026-09-21
 description: "Ternary-Bonsai-2-27B-PTQ1_0 性能测试报告"
-image: "/images/posts/beautify.png"
 tags: [AI, 本地模型]
 category: "教程"
 draft: false

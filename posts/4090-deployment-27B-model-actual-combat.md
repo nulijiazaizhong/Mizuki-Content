@@ -2,7 +2,6 @@
 title: 两张 4090、一条 PCIe：本地部署 27B 大模型的全记录
 published: 2026-09-20
 description: "两张 4090、一条 PCIe：本地部署 27B 大模型的全记录"
-image: "/images/posts/beautify.png"
 tags: [AI, 本地模型]
 category: "教程"
 draft: false
